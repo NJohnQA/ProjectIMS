@@ -15,15 +15,6 @@ You are required to install Git Bash into your system as well as eclipse to run 
 
 Explain how to run the automated tests for this system. Break down into which tests and what they do
 
-### Unit Tests 
-
-This is testing the customer.
-
-```
-Give an example
-```
-
-
 ## Built With
 
 * [Maven](https://maven.apache.org/) - Dependency Management
