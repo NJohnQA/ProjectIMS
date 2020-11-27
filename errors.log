@@ -1,0 +1,19 @@
+20201126 15:14:01 INFO  [main] imsmain.InventoryManagementSystem InventoryManagementSystem.java28 - Enter you username
+20201126 15:14:07 INFO  [main] imsmain.InventoryManagementSystem InventoryManagementSystem.java30 - Enter your password
+20201126 15:14:13 DEBUG [main] utils.DBUtils DBUtils.java60 - com.mysql.cj.jdbc.exceptions.CommunicationsException: Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+20201126 15:14:18 DEBUG [main] utils.DBUtils DBUtils.java60 - com.mysql.cj.jdbc.exceptions.CommunicationsException: Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+20201126 15:14:18 INFO  [main] imsmain.InventoryManagementSystem InventoryManagementSystem.java36 - Which would you like to use?
+20201126 15:14:18 INFO  [main] domain.Domain Domain.java27 - CUSTOMER: Information about customers
+20201126 15:14:18 INFO  [main] domain.Domain Domain.java27 - ITEM: Individual Items
+20201126 15:14:18 INFO  [main] domain.Domain Domain.java27 - ORDER: Purchases of items
+20201126 15:14:18 INFO  [main] domain.Domain Domain.java27 - STOP: To close the application
+20201126 15:14:31 INFO  [main] imsmain.InventoryManagementSystem InventoryManagementSystem.java60 - What would you like to do with item:
+20201126 15:14:31 INFO  [main] controller.Action Action.java38 - CREATE: To save a new entity into the database
+20201126 15:14:31 INFO  [main] controller.Action Action.java38 - READ: To read an entity from the database
+20201126 15:14:31 INFO  [main] controller.Action Action.java38 - UPDATE: To change an entity already in the database
+20201126 15:14:31 INFO  [main] controller.Action Action.java38 - DELETE: To remove an entity from the database
+20201126 15:14:31 INFO  [main] controller.Action Action.java38 - RETURN: To return to domain selection
