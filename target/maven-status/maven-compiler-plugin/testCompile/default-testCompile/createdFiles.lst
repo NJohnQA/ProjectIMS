@@ -1,0 +1,4 @@
+com\qa\imsproject\controllers\CustomerControllerTest.class
+com\qa\imsproject\dao\CustomerDAOTest.class
+com\qa\imsproject\controllers\ItemControllerTest.class
+com\qa\imsproject\dao\ItemDAOTest.class
