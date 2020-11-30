@@ -1,4 +1,4 @@
-Coverage: 26%
+Coverage: 35%
 Inventory Managment System (IMS)
 
 This project is an Inventory Management System where you're able to create, update, read and delete customers, items and orders from a database.
